@@ -1,7 +1,5 @@
 # Naval-Battle_Cpp-Sfml
-School Assignment Naval Battle game development in collab with
-
-Alunas: Mel Raposeiras Ricaldoni, Núbia Torres de Oliveira e Sarah dos Santos Oliveira
+School Assignment Naval Battle game development in collab with @nubyoli and
 
 INSTRUÇÕES para rodar o Batalha Naval
 
