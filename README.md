@@ -1,7 +1,7 @@
 # Naval-Battle_Cpp-Sfml
-School Assignment Naval Battle game development in collab with [@nubyoli] and
+School Assignment Naval Battle game development in collab with [@nubyoli](https://github.com/nubyoli) and
 
-##INSTRUÇÕES para rodar o Batalha Naval
+## INSTRUÇÕES para rodar o Batalha Naval
 
 Configurações:
 
